@@ -1,0 +1,17 @@
+        body {
+            background-color: rgb(144, 206, 247);
+        }
+        p{
+             color:#1a0167;
+             font-size: x-small
+        }
+         body {
+            background-color: rgb(144, 247, 166);
+        }
+        h1{
+            font-family: sans-serif;
+        }
+        .escarcha {
+            color: darkmagenta;
+            font-size: 100px;
+        }
